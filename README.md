@@ -231,6 +231,4 @@ This project is open source and available under the MIT License.
 - Flask team for the web framework
 - Contributors to the MobileNetV2 architecture
 
----
 
-**Happy Mask Detection! 🎭**
